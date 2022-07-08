@@ -1,0 +1,50 @@
+body {
+	font-family: 'Montserrat', sans-serif;
+	background: #CCCCCC;
+}
+
+header {
+	background: url("JVfooter.jpg");
+	padding: 100px 0;
+	position: relative;
+	width: 100%;
+}
+
+footer {
+	text-align: center;
+	background: url("JVfooter.jpg");
+	padding: 40px;
+}
+
+
+.banner {
+	padding: 50px 0px 70px 650px ;
+	width: 600px;
+	right: 400px;
+}
+
+.titulo-principal {
+	text-align: center;
+	font-size: 2em;
+	margin: 0 0 1em;
+	clear: left;	
+}
+
+.principal {
+	padding: 3em 0;
+	background: #CCCCCC;
+	width: 940px;
+	margin: 0 auto;
+}
+
+.principal p {
+	margin: 0 0 1em;
+}
+
+.principal strong {
+	font-weight: bold;
+}
+
+.principal em {
+	font-style: italic;
+}
